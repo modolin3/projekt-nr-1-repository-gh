@@ -1,0 +1,2 @@
+C:\Users\Michał\Documents\TESTER\Studia MGR Cyber Vistula\SEMESTR 1\Wprowadzenie do programowania C#\ProNr1_Odolinski_70353\ProjektNr1_Odolinski_70353\obj\Debug\ProjektNr1_Odolinski_70353.csproj.AssemblyReference.cache
+C:\Users\Michał\Documents\TESTER\Studia MGR Cyber Vistula\SEMESTR 1\Wprowadzenie do programowania C#\ProNr1_Odolinski_70353\ProjektNr1_Odolinski_70353\obj\Debug\ProjektNr1_Odolinski_70353.csproj.CoreCompileInputs.cache
